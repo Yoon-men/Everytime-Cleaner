@@ -2,7 +2,9 @@
 
 ![Mockup](https://user-images.githubusercontent.com/64591335/194907755-09119020-e14f-46d3-ba83-f3adc283ca3d.png)
 
-> Say goodbye to tedious manual delections with 「Posting-Eraser-For-Everytime」.<br>Automate the removal of all your posts and comments on Everytime, making your online experience more comfortable.
+> Say goodbye to tedious manual delections with 「Posting-Eraser-For-Everytime」.
+
+> Automate the removal of all your posts and comments on Everytime, making your online experience more comfortable.
 <br>
 
 # What is this?
