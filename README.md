@@ -10,5 +10,4 @@
 # What is this?
 <img src="https://user-images.githubusercontent.com/64591335/194909240-ffe7f9c2-fe48-4cba-a471-9f8bd5cc4811.png" width="50%" height="50%">
 
-위의 게시글에서 영감을 얻어 'Posting Eraser For Everytime' 제작을 시작하게 되었습니다.<br>
-현재 작성 게시글 전체 삭제 기능 구현을 최우선 순위로 두고 있으며, 이후 작성 댓글 전체 삭제 기능 구현을 목표로 두고 있습니다.
+"I shall grant your wish."
