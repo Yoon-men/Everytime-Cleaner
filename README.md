@@ -1,6 +1,6 @@
 # Posting Eraser For EveryTime
 
-![Mockup](https://user-images.githubusercontent.com/64591335/194907755-09119020-e14f-46d3-ba83-f3adc283ca3d.png)
+![Mockup](https://github.com/Yoon-men/Posting-Eraser-For-Everytime/assets/64591335/b029566a-1cc5-4a21-b236-4015757ddc2f)
 
 > Say goodbye to tedious manual delections with 「Posting-Eraser-For-Everytime」.
 
