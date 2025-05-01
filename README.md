@@ -10,5 +10,5 @@
 
 ## 📽 Demo
 <p align="center">
-  <img src="https://github.com/Yoon-men/Posting-Eraser-For-Everytime/assets/64591335/b029566a-1cc5-4a21-b236-4015757ddc2f">
+  <img src="https://github.com/user-attachments/assets/ba2c7192-d0ff-400b-860f-0f3e108ec9ae">
 </p>
